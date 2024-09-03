@@ -1,1 +1,1 @@
-# caddy-server
+# Caddy Server
